@@ -1,0 +1,99 @@
+[
+  {
+    "value": "snow",
+    "synonyms": [
+      "snow",
+      "snowfall",
+      "snow fall rate",
+      "snow fall amount",
+      "snow amount",
+      "snowy",
+      "snow fall",
+      "amount of snow",
+      "rate of snow"
+    ]
+  },
+  {
+    "value": "pressure",
+    "synonyms": [
+      "pressure",
+      "barometric pressure",
+      "Atmospheric pressure"
+    ]
+  },
+  {
+    "value": "rain",
+    "synonyms": [
+      "rain",
+      "rain fall",
+      "rain fall amount",
+      "rain volume",
+      "rain fall volume",
+      "precipitation",
+      "rainy",
+      "showers",
+      "rainfall",
+      "amount of rain",
+      "rate of rain"
+    ]
+  },
+  {
+    "value": "visibility",
+    "synonyms": [
+      "fog",
+      "visibility",
+      "sight",
+      "foggy"
+    ]
+  },
+  {
+    "value": "cloud cover",
+    "synonyms": [
+      "cloud cover",
+      "clouds",
+      "cloudiness",
+      "cloudy"
+    ]
+  },
+  {
+    "value": "wind",
+    "synonyms": [
+      "wind",
+      "windy",
+      "breezy",
+      "breeze",
+      "gust",
+      "gusty"
+    ]
+  },
+  {
+    "value": "temperature",
+    "synonyms": [
+      "temperature",
+      "heat",
+      "hot",
+      "cool",
+      "cold"
+    ]
+  },
+  {
+    "value": "weather",
+    "synonyms": [
+      "weather",
+      "condition",
+      "sky",
+      "summary",
+      "overview"
+    ]
+  },
+  {
+    "value": "pop",
+    "synonyms": [
+      "pop",
+      "chance of precipitation",
+      "probability of precipitation",
+      "chance of rain",
+      "chance of snow"
+    ]
+  }
+]

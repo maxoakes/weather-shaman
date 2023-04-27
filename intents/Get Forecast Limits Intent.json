@@ -1,0 +1,108 @@
+{
+  "id": "7ad33531-6a43-4ffd-8e50-3d35169eaa3d",
+  "name": "Get Forecast Limits Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dda3402f-7070-432d-bb29-fea256f41820",
+          "name": "Limit",
+          "required": true,
+          "dataType": "@Limit",
+          "value": "$Limit",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want the lowest or the highest?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "df0af153-30db-4b69-9972-ccd437e815f7",
+          "name": "Condition",
+          "required": true,
+          "dataType": "@WeatherCondition",
+          "value": "$Condition",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What weather condition did you want to check?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "42809427-ede2-4b6f-82f7-0b9285120268",
+          "name": "Location",
+          "required": true,
+          "dataType": "@sys.location",
+          "value": "$Location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where did you want to check?"
+            },
+            {
+              "lang": "en",
+              "value": "What location did you want to check?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c67ce17c-5dfa-4f30-b174-14a828eb89c1",
+          "name": "DayCount",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "value": "$DayCount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

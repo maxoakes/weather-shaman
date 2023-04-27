@@ -1,0 +1,9 @@
+{
+  "id": "00902297-c7ad-4861-a316-5a225cbb533a",
+  "name": "Limit",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

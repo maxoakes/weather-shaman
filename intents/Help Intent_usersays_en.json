@@ -1,0 +1,67 @@
+[
+  {
+    "id": "01264aba-da86-41dd-9935-015232f30efb",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56ea296c-2ceb-4f63-8a79-3063d44a2b8d",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d668cf7-efca-4c76-9ed3-ac75ea916d44",
+    "data": [
+      {
+        "text": "How do I use you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e68cceb-da9d-4d67-a270-8d6c1c394a23",
+    "data": [
+      {
+        "text": "How do I use this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "845eea39-7a15-4b18-b664-73c0b5cc66a6",
+    "data": [
+      {
+        "text": "What can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

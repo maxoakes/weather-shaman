@@ -1,0 +1,74 @@
+{
+  "id": "f3a09fad-d652-493e-8860-d87873b8ac3e",
+  "name": "Get General Forecast Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "129685de-28cd-4588-bdb1-edda7f9f9570",
+          "name": "Location",
+          "required": true,
+          "dataType": "@sys.location",
+          "value": "$Location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For what location did you want to check the forecast?"
+            },
+            {
+              "lang": "en",
+              "value": "Where did you want to check the forecast?"
+            },
+            {
+              "lang": "en",
+              "value": "Which location\u0027s forecast did you want to check?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "53f1731b-95a6-4b53-89cc-c75291aea101",
+          "name": "DayCount",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "value": "$DayCount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

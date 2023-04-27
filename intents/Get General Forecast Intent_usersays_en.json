@@ -1,0 +1,806 @@
+[
+  {
+    "id": "1ba78b75-6d7e-431c-9367-202be6463751",
+    "data": [
+      {
+        "text": "I want the forecast.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fadb70ce-f075-42ec-8b52-11387967f5ee",
+    "data": [
+      {
+        "text": "What is the forecast?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1709d14f-4ede-4447-8b6d-3e00bb53ea5c",
+    "data": [
+      {
+        "text": "I want to check the forecast.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bf5a79b-0cae-4e48-a922-352e92425a91",
+    "data": [
+      {
+        "text": "How is the weather forecast over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f86eb85a-7289-483b-ae50-e791f89aa548",
+    "data": [
+      {
+        "text": "How is the forecast over the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "949808cb-fbd4-41ee-afbe-fd942acdfb58",
+    "data": [
+      {
+        "text": "How is the forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2643bd53-9988-4bc5-9a7e-457d234d229b",
+    "data": [
+      {
+        "text": "How is the weather forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96ed0c7b-5bd0-416f-a79c-382956d739d5",
+    "data": [
+      {
+        "text": "How is the forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c9ff606-1b67-4417-beb1-d96103bbb8ef",
+    "data": [
+      {
+        "text": "How will the weather forecast be for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8800e222-4137-4afe-912d-da6432bc19c5",
+    "data": [
+      {
+        "text": "How is ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s forecast?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00462250-25f0-4080-afd7-25d11af38b0b",
+    "data": [
+      {
+        "text": "What\u0027s the forecast like for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2332524f-88c3-4ab0-ae64-621e8bb6269a",
+    "data": [
+      {
+        "text": "What\u0027s the forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "914c01bd-86cb-45dd-8cf7-8f0b50d531c7",
+    "data": [
+      {
+        "text": "What\u0027s the weather forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "494f67a1-e2e8-4c41-af5c-e70573cdcb10",
+    "data": [
+      {
+        "text": "What will the forecast be for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a614c7df-7a9a-4a67-9efb-815a0937af4f",
+    "data": [
+      {
+        "text": "What will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " day forecast be for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc350868-43eb-4661-a057-a5b1652c20c9",
+    "data": [
+      {
+        "text": "What will the weather be ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0589cbc-ee49-4ab4-ba4c-b7e99ab01308",
+    "data": [
+      {
+        "text": "What will the weather be like ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95f2e049-1fd8-417c-a14c-0d9e197a538b",
+    "data": [
+      {
+        "text": "What will the weather be like over the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days for ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de832622-a45b-4c9e-904a-449bc954e08f",
+    "data": [
+      {
+        "text": "What will the weather forecast be like in ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dbd49aa-0084-4146-a347-6dbb8a9af233",
+    "data": [
+      {
+        "text": "What will the weather be like in ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37904f5f-68be-4a93-84e0-39712e1aadb4",
+    "data": [
+      {
+        "text": "What is the forecast over the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0452e0d1-e432-4dd3-b85b-ed8b56a1fa1e",
+    "data": [
+      {
+        "text": "What is the forecast over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30318c12-f782-4cfb-904b-07851f54af9a",
+    "data": [
+      {
+        "text": "What is the weather forecast for the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4abcda6c-9a40-4609-8d27-31377af99729",
+    "data": [
+      {
+        "text": "What is the weather forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9344c3e-09c7-4590-9f1a-2afd1e56c12e",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " day weather forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a211a11-fc6d-42b6-b5c0-c271a5de0ba7",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " day forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ccdb559-c592-4abe-9792-15540e18638c",
+    "data": [
+      {
+        "text": "What is the forecast for the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9da696e5-c25f-45ba-9910-77e482c6844e",
+    "data": [
+      {
+        "text": "What is the weather forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32c658a4-d1a2-4d21-b86e-1da1ff6965ca",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s forecast?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99c39184-fc0c-44c6-9fa0-eb9cd7f6941d",
+    "data": [
+      {
+        "text": "What is the forecast for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

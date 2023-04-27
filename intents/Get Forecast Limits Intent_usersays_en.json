@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "bbebe605-436d-4983-a0b9-8bd3534bb881",
+    "data": [
+      {
+        "text": "What will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fbced0a-4b78-4b8c-8557-ad5073f58f6f",
+    "data": [
+      {
+        "text": "On what day will ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd5854b3-5db0-4e45-86f3-0e7d906ebd18",
+    "data": [
+      {
+        "text": "When will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "274464c2-6729-4370-bc07-67c3bb8a9b3e",
+    "data": [
+      {
+        "text": "When will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b77e594c-8ebf-4df3-b992-89beab899590",
+    "data": [
+      {
+        "text": "When is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " over the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdf8dc3d-8034-4042-9b0f-454f404f083d",
+    "data": [
+      {
+        "text": "When is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b372526-beb3-453f-9078-9b0ba282b06d",
+    "data": [
+      {
+        "text": "When is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cdb3645-0978-47f3-a527-770e3e05b021",
+    "data": [
+      {
+        "text": "When is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " expected to be ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f7766a6-5b6e-4ae9-bb47-19a649d5e3d8",
+    "data": [
+      {
+        "text": "Over the couple days, when will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b06a85ce-0377-4219-af5a-38ca675b9e84",
+    "data": [
+      {
+        "text": "Over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": ", when will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa023451-1d82-4c02-9473-c4b125dde199",
+    "data": [
+      {
+        "text": "Over the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days, when will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b69bc255-f19e-4be1-9166-71e26166e352",
+    "data": [
+      {
+        "text": "When will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " be ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "556bbde8-adfe-44eb-99dc-6a1bcc6f36f4",
+    "data": [
+      {
+        "text": "When will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " be ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94e6aeef-592b-4ac1-b2f0-825d5e1e1a16",
+    "data": [
+      {
+        "text": "When will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5efda21-aad2-4017-8973-fe01d72e3aa8",
+    "data": [
+      {
+        "text": "When will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45632ae3-de92-4d75-8a3e-ba25d6af4b47",
+    "data": [
+      {
+        "text": "What day will have the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b67c7b51-0c57-44a9-8bf9-d774e410dfb5",
+    "data": [
+      {
+        "text": "What day will have the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "290d02e4-e9fb-4b32-9370-3a3dd488b066",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " reach over the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53dc86ae-6db5-47b3-af50-7759392d1d7b",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " reach over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next couple days",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40cb7fc6-8e31-4c9e-95a9-01f2ecdab515",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " reach over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27a980ce-5ff5-4298-a7d1-65e04687339a",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " be over the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c667282-58cf-4574-830e-f4a09ee4774a",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " be over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next couple days",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03cd6f61-eea6-43c3-b380-d7f58fb44197",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " be over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "445136ba-173b-4451-bdd2-cf882af9dcb0",
+    "data": [
+      {
+        "text": "What will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " over the next ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayCount}",
+        "meta": "@sys.number-integer",
+        "alias": "DayCount",
+        "userDefined": true
+      },
+      {
+        "text": " days?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc298b62-858e-43ce-a1ad-53dd6a5aa634",
+    "data": [
+      {
+        "text": "What will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next couple days",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c797070-ab37-4307-9abc-5b14c7bdfbe7",
+    "data": [
+      {
+        "text": "What will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Limit}",
+        "meta": "@Limit",
+        "alias": "Limit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " over ",
+        "userDefined": false
+      },
+      {
+        "text": "the next few days",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

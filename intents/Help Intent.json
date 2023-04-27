@@ -1,0 +1,35 @@
+{
+  "id": "0e90a7e3-2acb-4c31-908b-edfb7bcf38d1",
+  "name": "Help Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can ask about a current weather condition at a city or ZIP code. You can also inquire about a date and time within the next 5 days. Some conditions that I know are chance of precipitation, cloud cover, temperature and more. Try it out!\n\nI can also get a general forecast for a location, or tell you when a weather condition is at its lowest or highest at a location."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

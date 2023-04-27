@@ -1,0 +1,31 @@
+[
+  {
+    "value": "high",
+    "synonyms": [
+      "High",
+      "highest",
+      "best",
+      "most",
+      "good",
+      "minimum",
+      "min",
+      "hottest",
+      "wettest"
+    ]
+  },
+  {
+    "value": "low",
+    "synonyms": [
+      "Low",
+      "lowest",
+      "worst",
+      "least",
+      "bad",
+      "maximum",
+      "max",
+      "coolest",
+      "driest",
+      "coldest"
+    ]
+  }
+]

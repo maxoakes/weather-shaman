@@ -1,0 +1,1227 @@
+[
+  {
+    "id": "8bb08a49-f40f-45a1-8abc-969d21f6b7ce",
+    "data": [
+      {
+        "text": "How is the the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea22d634-4fa3-4c22-bcc4-39d753c07df7",
+    "data": [
+      {
+        "text": "I want the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b2d5341-ffaa-45f1-9876-561837223b6f",
+    "data": [
+      {
+        "text": "I want to check the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fbc31b5-d473-4fad-a700-ef4d10c16b6f",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " will it get ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1767b88f-f538-4a70-9f4c-6baad5f386c0",
+    "data": [
+      {
+        "text": "What is the current ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e13d50dd-7cfa-4a16-9b84-53044bc4437d",
+    "data": [
+      {
+        "text": "What will be the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayTime}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a39bee98-dc37-4c8d-beaf-40383daba9a6",
+    "data": [
+      {
+        "text": "What will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": false
+      },
+      {
+        "text": " be in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{DayTime}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f40e3f5-8aac-4098-8670-3c6e667f0794",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Day}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faf19c76-5904-448a-9ffb-bbd49445da4d",
+    "data": [
+      {
+        "text": "How is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Day}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c1991b7-c134-48b7-aecf-305f0ec58d47",
+    "data": [
+      {
+        "text": "How is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Day}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e124cb7-fd9c-4fb9-a6e2-9388e070e80c",
+    "data": [
+      {
+        "text": "{Day}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": ", what will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " be in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bebef02-5216-4152-aba3-c68c5e619299",
+    "data": [
+      {
+        "text": "{Day}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": ", how will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " be in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f760359-72b0-4213-a227-68792f647199",
+    "data": [
+      {
+        "text": "How will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " be in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Day}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "685cd964-2237-41e3-a7e5-c1ae77cd5a4b",
+    "data": [
+      {
+        "text": "What will the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " be in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Day}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbbd7c92-e341-42db-a722-e23488f30ae4",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": ", what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2e8ab33-1411-411a-8d86-85e337e26b8b",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": ", how are the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "909c2e97-42b4-4306-987a-85096535480d",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": ", how is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a02a0cb0-c2a1-4ef8-8ae4-d2702fc50d11",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a066a014-37bd-464a-aed5-c04b0f1bbe0e",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4387ab49-584b-45c6-8c23-da04a628dcfd",
+    "data": [
+      {
+        "text": "What are the current ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22dbe09b-763e-4f9f-88c0-50e3aea6a4f5",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f6be0cf-53ca-4706-bd56-b868eb8f626e",
+    "data": [
+      {
+        "text": "What\u0027s the current ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2005504-c5a2-4d8a-8ddc-18361cdc2931",
+    "data": [
+      {
+        "text": "What is the active ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "467ad496-0e1b-4911-a8a8-e1787a3205ef",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " like in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10427384-e811-4ea6-832b-0ad5a5a7aab0",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " like in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb080995-8f97-45ea-a9db-6fcf7a56e4c0",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " currently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c544edfa-fde8-48cc-96ba-813da0c6c0cb",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ede3a0b-ac76-4119-8a43-07f9f860dcb7",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "{Day}",
+        "meta": "@sys.date-time",
+        "alias": "DayTime",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43625039-eb29-43db-bd1d-e44ce352df2d",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "558f966c-9ba5-4ece-b23b-0544f82f3bac",
+    "data": [
+      {
+        "text": "What is the current ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e10345e-791c-41d5-976b-5a193b247236",
+    "data": [
+      {
+        "text": "How is ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f48216e2-6c79-463e-a4a4-8111cd798139",
+    "data": [
+      {
+        "text": "How is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2a9d77e-0f09-40fc-8b51-91152ca29d7d",
+    "data": [
+      {
+        "text": "How is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": " right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a4c1aff-b85d-4a08-8b3c-b9b00badf536",
+    "data": [
+      {
+        "text": "How is the ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " currently in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd868a2a-efed-4bd5-b902-3369b0ca9ce5",
+    "data": [
+      {
+        "text": "How is the current ",
+        "userDefined": false
+      },
+      {
+        "text": "{Condition}",
+        "meta": "@WeatherCondition",
+        "alias": "Condition",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "{Location}",
+        "meta": "@sys.location",
+        "alias": "Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

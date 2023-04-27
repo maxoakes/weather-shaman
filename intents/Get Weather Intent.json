@@ -1,0 +1,97 @@
+{
+  "id": "abf16f28-f8fa-46be-ba3b-fc921fffb053",
+  "name": "Get Weather Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3b478a6b-76a6-4173-b0f0-2ae0d46a14de",
+          "name": "Condition",
+          "required": true,
+          "dataType": "@WeatherCondition",
+          "value": "$Condition",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What weather condition did you want to check?"
+            },
+            {
+              "lang": "en",
+              "value": "What aspect of the weather did you want to check?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "71b231ef-4e26-48b1-b4ec-e2f54634b683",
+          "name": "Location",
+          "required": true,
+          "dataType": "@sys.location",
+          "value": "$Location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where did you want to check?"
+            },
+            {
+              "lang": "en",
+              "value": "What location did you want to check?"
+            },
+            {
+              "lang": "en",
+              "value": "What city did you want to check?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "855d780b-5121-4b8e-b2cf-1fa8a2572a66",
+          "name": "DayTime",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$DayTime",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
